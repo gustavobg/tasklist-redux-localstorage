@@ -1,6 +1,8 @@
 # tasklist-redux-localstorage
 Simple Tasklist project using React, Redux and Webpack, state persisted by localstorage
 
+DEMO: https://gustavobg.github.io/tasklist-redux-localstorage/
+
 ## Getting Started
 
 Run:
