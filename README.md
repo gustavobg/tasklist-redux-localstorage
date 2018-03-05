@@ -9,13 +9,11 @@ npm install
 npm start
 ```
 Visit http://localhost:3333 url.
+NOTE: The server already runs with live reload.
 
 Build:
 ```
 npm build:webpack
 npm start
 ```
-Visit http://localhost:3333 url.
-
-
-NOTE: The server already runs with live reload.
+Bundle will be generated at "dist" directory
