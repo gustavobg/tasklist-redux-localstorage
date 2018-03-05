@@ -13,6 +13,6 @@ NOTE: The server already runs with live reload.
 
 Build:
 ```
-npm build:webpack
+npm build
 ```
 Bundle will be generated at "dist" directory
