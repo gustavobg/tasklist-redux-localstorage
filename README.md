@@ -14,6 +14,5 @@ NOTE: The server already runs with live reload.
 Build:
 ```
 npm build:webpack
-npm start
 ```
 Bundle will be generated at "dist" directory
